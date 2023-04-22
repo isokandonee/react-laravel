@@ -1,9 +1,9 @@
 import PageComponent from "../components/PageComponent";
 
-export default function Dashboard() {
+export default function Items() {
   return (
-    <PageComponent title="Dashboard">
-        Children
+    <PageComponent title="Items">
+        CHildren
     </PageComponent>
   )
 }
